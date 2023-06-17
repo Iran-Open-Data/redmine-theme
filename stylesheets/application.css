@@ -32,4 +32,5 @@
 
 h1, h2, h3, h4, h5, h6 {font-family: 'Vazirmatn', 'Noto Sans Mono'; }
 #projects-index ul.projects div.root a.project { font-family: 'Vazirmatn', 'Noto Sans Mono'; }
+h2, h3, h4, .wiki h1, .wiki h2, .wiki h3 { font-family: 'Vazirmatn', 'Noto Sans Mono'; }
 
